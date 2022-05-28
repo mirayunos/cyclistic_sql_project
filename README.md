@@ -1,2 +1,3 @@
 # cyclistic_sql_project
-Im crying doing this because idk what Im doing
+MYSQL application in creating Database for Cyclistic project.
+Based in Jupyter Notebook.
